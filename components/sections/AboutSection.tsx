@@ -1,9 +1,9 @@
 import CurrentTimeLineExp from '../content/CurrentTimeLineExp';
+import CurrentTimeLineEdu from '../content/CurrentTimeLineEdu';
 import AnimationContainer from '../utils/AnimationContainer';
 import SectionContainer from '../utils/SectionContainer';
 import ShowSkills from '../utils/ShowSkills';
 import TitleSectionPageContainer from '../utils/TitleSectionPageContainer';
-import ProcessWork from '../content/ProcessWork';
 import { skills } from '../utils/mySkills';
 
 const AboutSection = () => {
@@ -23,6 +23,8 @@ const AboutSection = () => {
         </AnimationContainer>
 
         <CurrentTimeLineExp />
+
+        <CurrentTimeLineEdu />
 
         <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
 
