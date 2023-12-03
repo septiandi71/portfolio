@@ -27,7 +27,7 @@ export const TimelineEvent = ({ active, children, last }: TimelineEventProps) =>
           className={classNames(
             'absolute top-[-2px] left-[-8.5px] w-4 h-4 rounded-full aspect-square outline-black',
             {
-              'bg-emerald-500': active,
+              'bg-cyan-500': active,
               'bg-neutral-800': !active,
               'w-3 h-3': !active,
               'left-[-5.5px]': !active,
