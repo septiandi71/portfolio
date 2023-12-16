@@ -7,12 +7,60 @@ import { CardProjectProps } from '@/types';
 
 const allProjectsInfo = [
   {
+    id: '1',
+    title: 'Kunjungin App - Bangkit Capstone Project',
+    des: 'Bangkit Capstone Project, my role was Cloud Computing, i developed the infrastructure and api with my teamate',
+    category: 'gcp - app engine - nodejs - python - api',
+    repo: 'https://github.com/vinsensiuschristo/KunjungIn/tree/cc',
+    link: '#'
+  },
+  {
     id: '2',
     title: '360° Virtual Office Design',
     des: 'Making virtual office design with sketchup and rendering into 360° panoramic image.',
     category: 'virtual realty - 360 design - sketchup',
     repo: '#private',
     link: 'https://momento360.com/e/uc/c89b370f08eb4e4580cd43e0e6689eb3?utm_campaign=embed&utm_source=other&size=medium&display-plan=true'
+  },
+  {
+    id: '3',
+    title: 'CMS Website Profile for School',
+    des: 'CMS Website Profile for School',
+    category: 'html - bootstrap - javascript - mysql - codeigniter',
+    repo: '#private',
+    link: 'https://smkashshohehdua.sch.id/'
+  },
+  {
+    id: '4',
+    title: 'Custom QR Code Generator with qrcode-monkey Lib',
+    des: 'Custom QR Code Generator',
+    category: 'laravel - qrcode - generator',
+    repo: 'https://gitlab.com/septiandi71/ifqrcodegenerator/',
+    link: '#'
+  },
+  {
+    id: '5',
+    title: 'My Old Portofolio Website',
+    des: 'Static website for portofolio',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://porto-devin.vercel.app/'
+  },
+  {
+    id: '6',
+    title: 'Keb Birthday Website',
+    des: 'Static website for celebrating my gf bday',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://keb-bday.fly.dev/'
+  },
+  {
+    id: '7',
+    title: 'Static Web Voting',
+    des: 'Static web Voting for campus assignments',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://webvoting.vercel.app/'
   },
   {
     id: '8',
@@ -62,54 +110,7 @@ const allProjectsInfo = [
     repo: '#private',
     link: 'https://www.arbone.site/'
   },
-  {
-    id: '7',
-    title: 'Static Web Voting',
-    des: 'Static web Voting for campus assignments',
-    category: 'html - static - javascript',
-    repo: '#private',
-    link: 'https://webvoting.vercel.app/'
-  },
-  {
-    id: '6',
-    title: 'Keb Birthday Website',
-    des: 'Static website for celebrating my gf bday',
-    category: 'html - static - javascript',
-    repo: '#private',
-    link: 'https://keb-bday.fly.dev/'
-  },
-  {
-    id: '5',
-    title: 'My Old Portofolio Website',
-    des: 'Static website for portofolio',
-    category: 'html - static - javascript',
-    repo: '#private',
-    link: 'https://porto-devin.vercel.app/'
-  },
-  {
-    id: '4',
-    title: 'Custom QR Code Generator with qrcode-monkey Lib',
-    des: 'Custom QR Code Generator',
-    category: 'laravel - qrcode - generator',
-    repo: 'https://gitlab.com/septiandi71/ifqrcodegenerator/',
-    link: '#'
-  },
-  {
-    id: '3',
-    title: 'CMS Website Profile for School',
-    des: 'CMS Website Profile for School',
-    category: 'html - bootstrap - javascript - mysql - codeigniter',
-    repo: '#private',
-    link: 'https://smkashshohehdua.sch.id/'
-  },
-  {
-    id: '1',
-    title: 'Kunjungin App - Bangkit Capstone Project',
-    des: 'Bangkit Capstone Project, my role was Cloud Computing, i developed the infrastructure and api with my teamate',
-    category: 'gcp - app engine - nodejs - python - api',
-    repo: 'https://github.com/vinsensiuschristo/KunjungIn/tree/cc',
-    link: '#'
-  }
+  
 
 ];
 
