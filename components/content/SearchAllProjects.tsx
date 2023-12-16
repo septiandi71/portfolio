@@ -7,7 +7,7 @@ import { CardProjectProps } from '@/types';
 
 const allProjectsInfo = [
   {
-    id: '1',
+    id: '2',
     title: '360° Virtual Office Design',
     des: 'Making virtual office design with sketchup and rendering into 360° panoramic image.',
     category: 'virtual realty - 360 design - sketchup',
@@ -15,7 +15,7 @@ const allProjectsInfo = [
     link: 'https://momento360.com/e/uc/c89b370f08eb4e4580cd43e0e6689eb3?utm_campaign=embed&utm_source=other&size=medium&display-plan=true'
   },
   {
-    id: '2',
+    id: '8',
     title: 'Hone Inu (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -23,7 +23,7 @@ const allProjectsInfo = [
     link: 'https://www.honeinu.com/'
   },
   {
-    id: '3',
+    id: '9',
     title: 'Panther Inu (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -31,7 +31,7 @@ const allProjectsInfo = [
     link: 'https://www.pantherinu.co/'
   },
   {
-    id: '4',
+    id: '10',
     title: 'Troy (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -39,7 +39,7 @@ const allProjectsInfo = [
     link: 'hthttps://www.troyerc.com/'
   },
   {
-    id: '5',
+    id: '11',
     title: 'The Almanack (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -47,7 +47,7 @@ const allProjectsInfo = [
     link: 'https://www.thealmanack.co/'
   },
   {
-    id: '6',
+    id: '12',
     title: 'Kyuurbi (Arbitrum)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -55,14 +55,61 @@ const allProjectsInfo = [
     link: 'https://www.kyuurbi.world/'
   },
   {
-    id: '7',
+    id: '13',
     title: 'Arbone (Arbitrum)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
     repo: '#private',
     link: 'https://www.arbone.site/'
   },
-
+  {
+    id: '7',
+    title: 'Static Web Voting',
+    des: 'Static web Voting for campus assignments',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://webvoting.vercel.app/'
+  },
+  {
+    id: '6',
+    title: "Keb's Birthday Website",
+    des: 'Static website for celebrating my gf bday',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://keb-bday.fly.dev/'
+  },
+  {
+    id: '5',
+    title: 'My Old Portofolio Website',
+    des: 'Static website for portofolio',
+    category: 'html - static - javascript',
+    repo: '#private',
+    link: 'https://porto-devin.vercel.app/'
+  },
+  {
+    id: '4',
+    title: 'Custom QR Code Generator with qrcode-monkey Lib',
+    des: 'Custom QR Code Generator',
+    category: 'laravel - qrcode - generator',
+    repo: 'https://gitlab.com/septiandi71/ifqrcodegenerator/',
+    link: '#'
+  },
+  {
+    id: '3',
+    title: 'CMS Website Profile for School',
+    des: 'CMS Website Profile for School',
+    category: 'html - bootstrap - javascript - mysql - codeigniter',
+    repo: '#private',
+    link: 'https://smkashshohehdua.sch.id/'
+  },
+  {
+    id: '1',
+    title: 'Kunjungin App - Bangkit Capstone Project',
+    des: 'Bangkit Capstone Project, my role was Cloud Computing, i developed the infrastructure and api with my teamate',
+    category: 'gcp - app engine - nodejs - python - api',
+    repo: 'https://github.com/vinsensiuschristo/KunjungIn/tree/cc',
+    link: '#'
+  }
 
 ];
 
