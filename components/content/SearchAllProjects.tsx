@@ -72,7 +72,7 @@ const allProjectsInfo = [
   },
   {
     id: '6',
-    title: "Keb's Birthday Website",
+    title: 'Keb Birthday Website',
     des: 'Static website for celebrating my gf bday',
     category: 'html - static - javascript',
     repo: '#private',
