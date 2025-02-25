@@ -8,6 +8,18 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent active>
 
+        <TimelineEvent.Title><a href='https://www.linkedin.com/company/directorate-general-of-higher-education-ministry-of-national-education-indonesia/' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>Direktorat Jenderal Pendidikan Tinggi, Riset dan Teknologi Kemdikbudristek</a></TimelineEvent.Title>
+
+        <TimelineEvent.SubTitle>Blockchain / Web3 Developer Intern &nbsp;&nbsp;||&nbsp;&nbsp; Feb. 2024 - Jun. 2024</TimelineEvent.SubTitle>
+
+        <TimelineEvent.Description>
+        During this internship, I learned and gained valuable experience about Blockchain and Web3 technology. I worked on developing smart contracts using Solidity and integrating them with web applications using Next.js. I also had the chance to work with various tools and libraries such as ethers.js and OpenZeppelin, implementing token minting and transfer mechanisms.
+        </TimelineEvent.Description>
+
+      </TimelineEvent>
+      
+      <TimelineEvent>
+
         <TimelineEvent.Title><a href='https://www.linkedin.com/company/bangkit-academy/' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</a></TimelineEvent.Title>
 
         <TimelineEvent.SubTitle>Cloud Computing Student 2023 Cohort 2 &nbsp;&nbsp;||&nbsp;&nbsp; Aug. 2023 - Jan. 2024</TimelineEvent.SubTitle>

@@ -47,14 +47,6 @@ const allProjectsInfo = [
     link: 'https://porto-devin.vercel.app/'
   },
   {
-    id: '6',
-    title: 'Keb Birthday Website',
-    des: 'Static website for celebrating my gf bday',
-    category: 'html - static - javascript',
-    repo: '#private',
-    link: 'https://keb-bday.fly.dev/'
-  },
-  {
     id: '7',
     title: 'Static Web Voting',
     des: 'Static web Voting for campus assignments',
