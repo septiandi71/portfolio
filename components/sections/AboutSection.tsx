@@ -17,7 +17,7 @@ const AboutSection = () => {
         <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
 
           <p className='text-base text-gray-400'>
-          Hello World! My name is Devin Septiandi, As a Website Developer, I have quite good knowledge and I have strong dedication to always stay update for latest developments in the tech industry and I keep trying improve my skills at every opportunity.
+          Hello World! My name is Devin Septiandi, Software Developer specializing in web development (Laravel, NodeJS). And experienced in Web3 through an internship with Kemdikbudristek and a graduate of the Bangkit Academy Cloud Computing cohort. Eager to contribute to innovative and challenging tech projects.
           </p>
 
         </AnimationContainer>

@@ -47,7 +47,7 @@ const allProjectsInfo = [
     link: 'https://porto-devin.vercel.app/'
   },
   {
-    id: '7',
+    id: '6',
     title: 'Static Web Voting',
     des: 'Static web Voting for campus assignments',
     category: 'html - static - javascript',
@@ -55,7 +55,7 @@ const allProjectsInfo = [
     link: 'https://webvoting.vercel.app/'
   },
   {
-    id: '8',
+    id: '7',
     title: 'Hone Inu (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -63,7 +63,7 @@ const allProjectsInfo = [
     link: 'https://www.honeinu.com/'
   },
   {
-    id: '9',
+    id: '8',
     title: 'Panther Inu (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -71,7 +71,7 @@ const allProjectsInfo = [
     link: 'https://www.pantherinu.co/'
   },
   {
-    id: '10',
+    id: '9',
     title: 'Troy (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -79,7 +79,7 @@ const allProjectsInfo = [
     link: 'hthttps://www.troyerc.com/'
   },
   {
-    id: '11',
+    id: '10',
     title: 'The Almanack (ERC20)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -87,7 +87,7 @@ const allProjectsInfo = [
     link: 'https://www.thealmanack.co/'
   },
   {
-    id: '12',
+    id: '11',
     title: 'Kyuurbi (Arbitrum)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
@@ -95,7 +95,7 @@ const allProjectsInfo = [
     link: 'https://www.kyuurbi.world/'
   },
   {
-    id: '13',
+    id: '12',
     title: 'Arbone (Arbitrum)',
     des: 'Static website for marketing purpose only',
     category: 'html - static - marketing - blockchain token',
